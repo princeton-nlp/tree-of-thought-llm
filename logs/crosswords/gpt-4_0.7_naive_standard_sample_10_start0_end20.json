@@ -1,0 +1,1642 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "T A S K\nM O T O R\nO R A T E\nN O M E N\nD E R I D E",
+            "T A S K\nM O T O R\nG R A N D\nS A L O N\nS C O F F",
+            "T A S K \nM O T O R\nG R A N D\nS A L O N\nF L O U T",
+            "T A S K S\nM O T O R\nF L O R I D\nA N T E R O\nD E R I D E",
+            "T A S K\nM O T O R\nB O M B Y\nA U L A E\nG I R N",
+            "T A S K\nM O T O R\nF L O R I D\nS A L O N\nJ E E R",
+            "T A S K S\nM O T O R\nG R A N D\nS A L O N\nS C O F F",
+            "A C T I O\nM O T O R\nB O M B Y\nS A L O N\nC O F F_",
+            "T A S K S\nM O T O R\nH I G H F\nL O B E Y\nS C O F F",
+            "A C T I O\nM O T O R\nB O M B Y\nP A R L O\nF L O U T"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 288,
+            "prompt_tokens": 789,
+            "cost": 0.04095
+        }
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "W I L T \nV I E W \nE G B A \nC E D E R\nA E O N S",
+            "W I T H E\nR E P L Y\nE G B A S\nS E D E R\nA E O N S",
+            "W I T H E\nR E P A R T\nE F I K S\nD E R E D\nA E V U M",
+            "W I L T\nR E P E L\nE G B A\nS E D E R\nA E V U M",
+            "W I T H E\nR E P A R T\nE G B A S\nS E D E R\nA E O N I",
+            "W I T H E\nR I V A L\nE K O I S\nS E D E R\nA E O N S",
+            "W I T H E\nR E P E L\nE F I K S\nS E D E R\nA E O N S",
+            "W I T H E\nR E P L Y\nE G B A S\nS E D E R\nA E O N S",
+            "W I T H E\nR E P A R T\nE F O N\nS E D E R\nA E V U M",
+            "W I T H E\nR E P A R T\nE G B A S\nS E D E R\nA E V U M"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.2,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 576,
+            "prompt_tokens": 1567,
+            "cost": 0.08156999999999999
+        }
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "B E B O P\nA B U T I\nF R A T E\nA C C E P\nL E E S",
+            "B E B O P\nA B U T I\nF R A T E\nA C C E P\nL E E S",
+            "B E B O P\nA B U T I\nF R I A R\nA C C E P\nL E E S",
+            "B O P\nA B U T I\nF R A T E R\nA C C E P T\nL E E S",
+            "B O P P Y\nA B U T I\nF R A T E\nA C C E P\nL E E S S",
+            "B O P P Y\nA B U T I\nF R A T E\nA C C E P\nL E E S",
+            "B O P\nA B U T I\nF R I A R\nG E T A L\nL E E S",
+            "B E B O P\nA B U T I\nF R A T E\nA C C E P\nL E E S",
+            "B E B O P\nA B U T I\nF R E R E\nA C C E P\nL E E S",
+            "B E B O P\nA B U T I\nF R A T E\nA C C E P\nL E E S"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.12,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.12,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.12,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 855,
+            "prompt_tokens": 2363,
+            "cost": 0.12219
+        }
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "C A N I S\nT U R K I\nC H I N A\nP R O N E\nN Y L G H A",
+            "C A N I S\nA Z E R I\nN E T T L\nI S S U A\nS A S S A B",
+            "C A N I S\nA Z E R I\nN E V E H\nI C U N I\nS A S I N",
+            "C A N I S\nA L T A I\nN Y L O N\nP R O N E\nC H I N K",
+            "C A N I S\nA L T A I\nN E T T L\nI C O S A\nS A S I N",
+            "C A N I S\nU I G H U R\nN E S S A\nP R O N E\nC H I R U",
+            "C A N I S\nK A L M U K\nR H E A U M\nP R O N E\nC H I N K",
+            "C A N I S\nA Z E R I\nN E R V O\nP R O N E\nC H I R U",
+            "C A N I S\nA Z E R I\nC H I N A\nP R O N E\nN I L G A I",
+            "C A N I S\nA Z E R I\nN E V E H\nI C O N E\nS B L A C K"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1152,
+            "prompt_tokens": 3157,
+            "cost": 0.16382999999999998
+        }
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "E L E C T\nV O L U T E\nE R O S E\nB I B B E R\nQ U I D",
+            "E L E C T\nV O R T E X\nE R O S E\nI M B I B E\nP O U N D",
+            "E L E C T\nV O R T E X\nE R O S E\nT O P E R\nP O U N D",
+            "E L E C T\nV O L U T E\nE R O S E\nB I B B E R\nP O U N D",
+            "E L E C T\nV O R T E X\nE R O S E\nB I B B E R\nQ U I D",
+            "E L E C T\nV O L U T E\nE R O S E D\nI M B I B E\nN I C K E R",
+            "E L E C T\nV O L U T E\nE R O S E\nB I B B E R\nQ U I D",
+            "E L E C T\nV O L U T E\nE R O S E D\nB I B B E R\nQ U I D S",
+            "E L E C T\nV O L U T E\nE R O S E D\nT O P E R S\nI M P L E M",
+            "E L E C T\nV O L U T E\nE R O S E\nT I P L E\nR E S O L"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1462,
+            "prompt_tokens": 3955,
+            "cost": 0.20637
+        }
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "E L E C T\nC E N T U\nS C O P S\nH E L M S\nO S I E R",
+            "E L E C T\nD O L L A R\nS Y R N I X\nL U R K E R\nH E R O I C",
+            "E L E C T\nC U R R Y\nE A G L E\nS L E E K\nH E R O N",
+            "S E L E C\nO B O L U\nS T R I X\nL U R K S\nH E R O I",
+            "S E L E C\nO B O L U\nS C O P S\nS L I D E\nH E R O S",
+            "S E L E C\nE C U D O\nS E R R A\nI Z A R D\nH E R O E",
+            "E L E C T\nN U M M U\nS C O P S\nL E A N T\nH E R O E",
+            "E L E C T\nC A S H E\nS C O P S\nL U R K S\nH E R O S",
+            "E L E C T\nC U R R Y\nS C O P S\nI B L E S\nH E R O S",
+            "E L E C T\nC U R R Y\nU H U H U\nL K L O U T\nT E R E R"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.04,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.04,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.08,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.08,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.08,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1757,
+            "prompt_tokens": 4736,
+            "cost": 0.24749999999999997
+        }
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "C L I N G\nA U G E R\nT I N T E\nD A L L E\nK A R S T",
+            "C L I N G\nA U G E R\nT I N T E\nS P A R K\nK A R S T",
+            "C L I N G\nA D Z E S\nT R E N T\nE B O N Y\nK A R S T",
+            "C L I N G\nA D Z E S\nT I N T A\nH O R R A\nK A R S T",
+            "C L I N G\nA U G E R\nP I Q U E\nC O W T R\nK A R S T",
+            "C L I N G\nA W L I S\nT I N T E\nD A L L E\nK A R S T",
+            "C L I N G\nA U G E R\nT I N T E\nB A L S A\nK A R S T",
+            "C L I N G\nA U G E R\nT I N T E\nH O R R Y\nK A R S T",
+            "C L I N G\nA U G E R\nM I R E D\nB U L L Y\nK A R S T",
+            "C L I N G\nA U G E R\nT I N T E\nD A M A N\nK A R S T"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.56,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2047,
+            "prompt_tokens": 5542,
+            "cost": 0.28908
+        }
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "C A N S T\nS K A L D\nE S S A Y\nB O L T E\nK N U R R",
+            "C A N S T\nP O E T\nE S S A Y\nB O L T E\nT A W E R",
+            "C A N S T\nS K A L D\nE S S A Y\nB O L T E\nR I P P E",
+            "C A N S T\nS K A L D\nE S S A Y\nB O L T E\nT A W E R",
+            "C A N S T\nS C O P D\nE S S A Y\nS E A R C\nT A W E R",
+            "C A N S T\nS C O P D\nE S S A Y\nB O L T E\nR I P P E R",
+            "C A N S T\nS K A L D\nE S S A Y\nS E A R C\nH A S S L E",
+            "C A N S T\nS K A L D\nE S S A Y\nB O L T E\nT A W E R",
+            "C A N S T\nS C O P E\nT H E M E\nR I D D L\nE T O Y E R",
+            "C A N S T\nS K A L D\nE S S A Y\nB O L T E\nR I P E R"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.08,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2339,
+            "prompt_tokens": 6320,
+            "cost": 0.32994
+        }
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "D I S C O\nO F F E D\nP A T E N T\nM A N S E\nQ U O T E\n\nInput:\nh1. A music style; a dance hall\nh2. To remove the hat\nh3. Unhidden; explicit\nh4. The minister's house\nh5. To demand; to arrange;\nv1. An Italian domed cathedral\nv2. A nickel steel alloy\nv3. To disgrace; to blame; to injure\nv4. Low-lying fertile land\nv5. A sea mammal; a fishing device\n\nOutput:\nD I S C O\nO F F E D\nP A T E N T\nM A N S E\nQ U O T E",
+            "D I S C O\nO F F E D\nP A T E N T\nM A N S E\nO R D E R\n",
+            "S A L O N\nU N H A T\nN A K E D\nM A N S E\nC A L L S",
+            "S A L O N\nU N H A T\nO P E N E\nM A N S E\nS E T T O",
+            "D I S C O\nO F F E D\nO V E R T\nP A R S O\nN E A T E",
+            "D I S C O\nO F F E D\nO V E R T\nM A N S E\nC L A I M",
+            "S A L O N\nU N H A T\nO V E R T\nM A N S E\nC A L L S",
+            "S A L O N\nD O F F S\nO V E R T\nM A N S E\nC A L L S\n\nInput:\nh1. A music style; a dance hall\nh2. To remove the hat\nh3. Unhidden; explicit\nh4. The minister's house\nh5. To demand; to arrange;\nv1. An Italian domed cathedral\nv2. A nickel steel alloy\nv3. To disgrace; to blame; to injure\nv4. Low-lying fertile land\nv5. A sea mammal; a fishing device\n\nOutput:\nS A L O N\nD O F F S\nO V E R T\nM A N S E\nC A L L S",
+            "D I S C O\nO F F E D\nO V E R T\nM A N S E\nC L A I M",
+            "D I S C O\nO F F E D\nN A K E D\nM A N S E\nE X A C T"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.6,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.6,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.6,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.6,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2891,
+            "prompt_tokens": 7109,
+            "cost": 0.38673
+        }
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "E R U C T\nS I T E\nA D M O N\nT O S S P O T\nE N T E R",
+            "E R U C T\nS I T U S\nA D M O N\nS O T T E D\nE N T E R",
+            "E R U C T\nS I T E\nA D M O N\nS O T\nE N T E R",
+            "E R U C T\nS I T E S\nA D M O N\nS O T T E R\nE N T E R",
+            "E R U C T\nS P O T S\nA D M O N\nS O T T I E\nE N T E R",
+            "E R U C T\nS I T E S\nA D M O N\nS O T S O\nE N T E R",
+            "E R U C T\nS I T E S\nA D M O N\nS O T T E\nE N T E R",
+            "E R U C T\nS I T E\nA D M O N\nS O T\nE N T E R",
+            "E R U C T\nS I T E S\nA D M O N\nS O T T E R\nE N T E R",
+            "E R U C T\nS I T E S\nA D M O N\nS O T T E R\nE N T E R"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3181,
+            "prompt_tokens": 7885,
+            "cost": 0.42740999999999996
+        }
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "F L A N\nA L O G\nM E D I\nI T E M\nM E R G E",
+            "F L A N\nL I T H O\nI N T R A\nT A S K\nM I X E D",
+            "F L A N\nL I T H O\nI N N E R\nT A S K\nM E R G E",
+            "F L A N S\nL I T H O\nE N T A D\nC H O R E\nM E R G E",
+            "F L A N S\nL I T H O\nI N N E R\nE R I N S\nM E R G E",
+            "F L A N S\nL I T H O\nA D E N T\nC H O R E\nM E L D S",
+            "F L A N\nL I T H O\nI N N E R\nT A S K\nM E R G E",
+            "F L A N\nL I T H O\nE N T A D\nC H O R E\nM I X E D",
+            "F L A N S\nA L O N G\nI N T R A\nE R A N D\nM E L D S",
+            "F L A N S\nL I T H O\nA D L U M\nC H O R E\nU N I T E"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.68,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.6,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3460,
+            "prompt_tokens": 8694,
+            "cost": 0.46841999999999995
+        }
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "T H R O N G\nR E C R E W\nA R A P A H O\nT O T E M\nE W E R Y",
+            "R A B B L\nE M A N A\nM O H A W\nK E T U A\nR E W A R",
+            "R A B B L\nE M B A R\nC R E E S\nT O T E M\nE W E R Y",
+            "R A B B L\nE M B A R\nC H E R O\nK E E T O\nW A S H Y",
+            "T H R O N G\nR E M A N\nC R O W S\nT O T E M\nE W E R Y",
+            "T H R O N G\nR E C O I L\nO T O M I S\nC L A N T O\nE W E R Y",
+            "R A B B L\nE C R E W\nC H E R O\nT O T E M\nE W E R Y",
+            "T H R O N G\nR E C R E W\nO M A H A S\nT O T E M S\nE W E R Y",
+            "R A B B L\nE C R E W\nC H E Y E\nT O T E M\nA Q U A R",
+            "R A B B L\nE M A N E\nC R E E K\nT O T E M\nE W E R Y"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.04,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.08,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.6,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3763,
+            "prompt_tokens": 9478,
+            "cost": 0.5101199999999999
+        }
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "F R I T H\nR O U S E\nA G A M A\nR A I S E\nE I D E R",
+            "C O P S E\nL A R E R\nA G A M A\nE X A L T\nI D E R D",
+            "C O P S E\nL A R U M\nA G A M A\nR A I S E\nE I D E R",
+            "C O P S E\nA L A R M\nA G A M A\nR E A R S\nE I D E R",
+            "C O P S E\nL A R U M\nA G A M A\nE L E V A\nT E A L E",
+            "C O P S E\nL A R U M\nA G A M A\nR A I S E\nE I D E R",
+            "C O P S E\nA L A R M\nA G A M A\nE X A L T\nI D E R D",
+            "C O P S E\nR I O T S\nA G A M A\nE R E C T\nE I D E R",
+            "C O P S E\nL A R U M\nA G A M A\nE L E V A\nT E A L E",
+            "C O P S E\nA L A R M\nG A L L I\nU P R A I\nD U V E T"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.68,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.68,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.12,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4053,
+            "prompt_tokens": 10270,
+            "cost": 0.55128
+        }
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "C O P S E\nR E M E X\nU V U L A\nT E N I A\nL E G E R",
+            "W O O D S\nR E M I X\nU V U L A\nM I D S T\nS K I F F",
+            "W O O D S\nR E M I G E\nU V U L A\nM I D D L E\nY A W L",
+            "C O P S E\nR E M I G\nU V U L A\nM I D S T\nS C O W S",
+            "C O P S E\nR E M I G\nU V U L A\nM I D D L\nE L E V E",
+            "W I L D S\nR E M I G\nU V U L A\nM I D D L\nE L E V A",
+            "C O P S E\nR E M I G\nU V U L A\nC E N T R\nE L E V E",
+            "F O R E S\nR E M I G\nU V U L A\nM I D W A\nY A W L S",
+            "G R O V E\nR E M I G E\nU V U L A\nM E D I A L\nP U N T E R",
+            "F O R E S\nR E M I G\nE P I L Y\nM E S I C\nB A R G E"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.48,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4347,
+            "prompt_tokens": 11046,
+            "cost": 0.5922
+        }
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "A R A B I\nM U L C T\nA B A S E\nR I N S E\nI R A P A",
+            "T A M I L\nA M E R C\nA B A S E\nR I N S E\nN I P A H",
+            "T A M I L\nA M E R C E\nA B A S E\nR I N S E\nN I P A H",
+            "T A M I L\nA M E R C\nA B A T E\nR I N S E\nA T A P A",
+            "T A M U L\nA M E R C\nA B A S E\nR I N S E\nI R A P O",
+            "T A M I L\nA M E R C E\nA B A S E\nR I N S E\nN I P A H",
+            "A R A B I\nM U L C T\nA B A S E\nR I N S E\nA T A P S",
+            "T A M I L\nA M E R C E\nA B A S E\nR I N S E\nN I P A H",
+            "T A M I L\nA M E R C E\nA B A S E\nR I N S E\nN I P A H",
+            "T A M I L\nA M E R C\nM A B A S E\nR I N S E\nE N I P A"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.48,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4642,
+            "prompt_tokens": 11829,
+            "cost": 0.63339
+        }
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "E M P E R\nP R E L U\nI G N O M\nS C A R H\nK I E L Y",
+            "E M P E R\nP R E A M\nI G N O M\nN A V E L\nG L E E D",
+            "W I L H E\nP R E L U\nI G N O M\nN A V E L\nE M B E R",
+            "E M P E R\nP R E L U\nI G N O M\nN A V E L\nK I T E S",
+            "E M P E R\nP R E L U\nI G N O M\nN A V E L\nK E S R A",
+            "T S A R\nP R E P\nI G N O\nN A V E\nE M B E R",
+            "W I L H E\nP R O E M\nI G N O M\nN A V E L\nH A R R Y",
+            "W I L H E\nI N T R O\nO D I U M\nM P H A L I\nK I T E S",
+            "E M P E R\nP R E L U\nI G N O M\nN A V E L\nK I T E S",
+            "E M P E R\nP R E L U\nI G N O M\nN A V E L\nG L E E D"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.08,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.36,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4929,
+            "prompt_tokens": 12628,
+            "cost": 0.67458
+        }
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "S H I L O\nO V I N E\nG R O V E\nI N N E R\nD O M A I N",
+            "E D E N S\nO V I N E\nW O O D S\nI N N E R\nD O M A I N",
+            "E D E N S\nO V I N E\nC O V E R\nI N T R A\nR E G N A",
+            "E D E N S\nO V I N E\nC O P S E\nI N N E R\nD O M A I N",
+            "E D E N S\nO V I N E\nC O P S E\nI N T R A\nD E M E S",
+            "E D E N S\nO V I N E\nC O P S E\nI N N E R\nD O M A I N",
+            "E D E N I\nO V I N E\nF O R E S\nI N N E R\nD E M E S",
+            "E D E N S\nO V I N E\nC O P S E\nC R U R A\nD O M A I N",
+            "S H I L O\nO V I N E\nF O R E S\nI N N E R\nW O R L D",
+            "E D E N S\nO V I N E\nC O P S E\nI N T I M\nD O M A I N"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.2,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.28,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.16,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.2,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 5225,
+            "prompt_tokens": 13404,
+            "cost": 0.7156199999999999
+        }
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "N U M E N\nU S A G E\nN I B B L\nP R I E S\nS L E N D",
+            "N U M E N\nU S A G E\nB I T E S\nP R I E S\nS P A R E",
+            "N U M E N\nU S A G E\nM U M M L\nE G I S E\nS P A R E",
+            "N U M E N\nU S A G E\nM A S T I\nE G I S E\nS P A R E",
+            "N U M E N\nU S A G E\nC R U N C\nH P R Y S\nS P A R E",
+            "N U M E N\nU S A G E\nM U M M L E\nP R I E S\nS P A R E",
+            "N U M E N\nU S A G E\nC H E W S\nP R Y I N\nL E A N T",
+            "N U M E N\nU S A G E\nM A S T I C\nP R I E S\nS P A R E",
+            "N U M E N\nU S A G E\nM U M B L\nE G G S U\nS P A R E",
+            "N U M E N\nU S A G E\nG N A W S\nP R Y E R\nS P A R E"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.64,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.8,
+                "r_word": 0.4,
+                "r_game": false,
+                "r": 0.4
+            },
+            {
+                "r_letter": 0.72,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.68,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.64,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.88,
+                "r_word": 0.6,
+                "r_game": false,
+                "r": 0.6
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.84,
+                "r_word": 0.5,
+                "r_game": false,
+                "r": 0.5
+            },
+            {
+                "r_letter": 0.68,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.72,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 5517,
+            "prompt_tokens": 14211,
+            "cost": 0.75735
+        }
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "P I P I T\nI R A D E\nC H O S E N\nS A N E R\nM O N A D",
+            "P I P I T\nI R A D E\nC H O S E N\nS A N E R\nU N A R Y",
+            "P I P I T\nI R A D E\nC H O S E N\nH E A L T H\nM O N A D",
+            "P I P I T\nI R A D E\nC H O S E\nS A N E R\nU N I T Y",
+            "P I P I T\nI R A D E\nC H O S E N\nH E A L T H\nM O N A D",
+            "P I P I T\nI R A D E\nC H O S E N\nS A N E R\nM O N A D",
+            "P I P I T\nI R A D E\nC H O S E N\nS A N E R\nU N I T Y",
+            "P I P I T\nI R A D E\nC H O S E\nN U M M U\nU N A R Y",
+            "P I P I T\nI R A D E\nC H O S E N\nS A N E R\nM O N A D",
+            "P I P I T\nI R A D E\nC H O S E N\nS A N E R\nM O N A D"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.72,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.64,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.44,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.64,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.6,
+                "r_word": 0.3,
+                "r_game": false,
+                "r": 0.3
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 5817,
+            "prompt_tokens": 14998,
+            "cost": 0.7989599999999999
+        }
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "S T E R E\nS I M A R\nS C I S S\nE N S E R\nT R E A D",
+            "S E T T Y\nR I C E R\nE R A S E\nN E M A T\nT R E A D",
+            "S T E R E\nS C A R F\nL O P E\nE N S E\nT R E A D",
+            "S E T T E\nC Y M A R\nH E W\nS E N S E\nT R E A D",
+            "S E T I N\nC I M A R\nL O P E\nS E N S E\nT R E A D",
+            "T Y P E S\nR I C E R\nE S S E S\nA W A R E\nD T R E A D",
+            "S E T I N\nC Y M A R\nH E W E R\nE S S E N\nT R E A D",
+            "S T E R E\nC Y M A R\nL O P E\nS E N S E\nT R E A D",
+            "S E T T E\nC Y M A R\nL O P E\nS E N S E\nT R E A D",
+            "S E T T O\nC Y M A R\nI N C I S\nE N O L A\nT R E A D"
+        ],
+        "infos": [
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.4,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.24,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.56,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.12,
+                "r_word": 0.0,
+                "r_game": false,
+                "r": 0.0
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.52,
+                "r_word": 0.2,
+                "r_game": false,
+                "r": 0.2
+            },
+            {
+                "r_letter": 0.32,
+                "r_word": 0.1,
+                "r_game": false,
+                "r": 0.1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 6101,
+            "prompt_tokens": 15805,
+            "cost": 0.8402099999999999
+        }
+    }
+]
