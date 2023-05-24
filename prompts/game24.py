@@ -13,7 +13,7 @@ Answer: 5 + 5 + 5 + 9 = 24
 Input: {input}
 '''
 
-# 5-shot
+# 5-shot + cot
 cot_prompt = '''Use numbers and basic arithmetic operations (+ - * /) to obtain 24. Each step, you are only allowed to choose two of the remaining numbers to obtain a new number.
 Input: 4 4 6 8
 Steps:
