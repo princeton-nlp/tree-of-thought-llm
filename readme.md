@@ -7,7 +7,15 @@ Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/16593575474
 ## Setup
 You need to first have an OpenAI API key and store it in the environment variable ``OPENAI_API_KEY`` (see [here](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)).
 
+If you use custom base url, set it by environment variable ``OPENAI_API_BASE`` (e.g. "https://api.openai.com/v1")
+
+Note GPT-4 model is farily slow, please be patient
+
 Package requirement: ``openai``, ``backoff``, ``sympy``, ``numpy``. 
+
+```
+pip install openai backoff sympy numpy
+```
 
 
 ## Experiments
