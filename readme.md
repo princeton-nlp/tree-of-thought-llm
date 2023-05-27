@@ -28,7 +28,7 @@ The very simple ``run.py`` implements the ToT + BFS algorithm, as well as the na
 
 
 ## Trajectories
-``logs/`` contains trajectories from paper experiments, except ``logs/game24/gpt-4_0.7_propose1_value3_greedy5_start900_end1000.json`` is reproduced after the paper (as the original experiment was in a notebook) and achieved 69\% instead of original 74\% due to the randomness in GPT decoding. We hope to aggregate multiple runs in the future to account for sampling randomness and update the paper, but it shouldn't affect the main conclusions of the paper.
+``logs/`` contains all the trajectories from the paper's experiments, except for ``logs/game24/gpt-4_0.7_propose1_value3_greedy5_start900_end1000.json`` which was reproduced after the paper (as the original experiment was done in a notebook) and achieved a 69\% score instead of the original 74\% score due to randomness in GPT decoding. We hope to aggregate multiple runs in the future to account for sampling randomness and update the paper, but this shouldn't affect the main conclusions of the paper.
 
 
 
