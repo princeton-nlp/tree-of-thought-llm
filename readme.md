@@ -1,6 +1,6 @@
 # Tree of Thoughts (ToT)
 
-Code for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601). 
+Offical implementation (code, prompts, model outputs) for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601). 
 
 Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/1659357547474681857) in 1min.
 
@@ -34,6 +34,12 @@ The very simple ``run.py`` implements the ToT + BFS algorithm, as well as the na
 
 ## Questions
 Feel free to contact shunyuyao.cs@gmail.com or open an issue if you have any questions.
+
+
+
+## Questions
+Feel free to contact shunyuyao.cs@gmail.com or open an issue if you have any questions.
+
 
 
 ## Citation
