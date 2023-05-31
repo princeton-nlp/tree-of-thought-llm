@@ -1,11 +1,13 @@
-# Offical Repo of Tree of Thoughts (ToT)
+# Official Repo of Tree of Thoughts (ToT)
+[![DOI](https://zenodo.org/badge/642099326.svg)](https://zenodo.org/badge/latestdoi/642099326)
 
 ![teaser](teaser.png)
 
-Offical implementation for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) with code, prompts, model outputs.
+
+Official implementation for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) with code, prompts, model outputs.
 Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/1659357547474681857) in 1min.
 
-**Note: https://github.com/kyegomez/tree-of-thoughts is not the offical/correct implementation for the results in the paper. Please check https://github.com/ysymyth/tree-of-thought-llm/issues/17**
+**Note: https://github.com/kyegomez/tree-of-thoughts is not the official/correct implementation for the results in the paper. Please check https://github.com/ysymyth/tree-of-thought-llm/issues/17**
 
 Please cite the paper and star this repo if you use ToT and find it interesting/useful. Thanks!
 
@@ -19,6 +21,7 @@ Please cite the paper and star this repo if you use ToT and find it interesting/
       primaryClass={cs.CL}
 }
 ```
+
 
 
 ## Setup
