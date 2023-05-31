@@ -1,5 +1,7 @@
 # Offical Repo of Tree of Thoughts (ToT)
 
+![teaser](teaser.png)
+
 Offical implementation for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) with code, prompts, model outputs.
 Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/1659357547474681857) in 1min.
 
