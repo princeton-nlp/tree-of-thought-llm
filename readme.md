@@ -1,8 +1,22 @@
-# Tree of Thoughts (ToT)
+# Offical Repo of Tree of Thoughts (ToT)
 
-Offical implementation (code, prompts, model outputs) for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601). 
-
+Offical implementation for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) with code, prompts, model outputs.
 Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/1659357547474681857) in 1min.
+
+**Note: https://github.com/kyegomez/tree-of-thoughts is not the offical/correct implementation for the results in the paper. Please check https://github.com/ysymyth/tree-of-thought-llm/issues/17**
+
+Please cite the paper and star this repo if you use ToT and find it interesting/useful. Thanks!
+
+```bibtex
+@misc{yao2023tree,
+      title={{Tree of Thoughts}: Deliberate Problem Solving with Large Language Models}, 
+      author={Shunyu Yao and Dian Yu and Jeffrey Zhao and Izhak Shafran and Thomas L. Griffiths and Yuan Cao and Karthik Narasimhan},
+      year={2023},
+      eprint={2305.10601},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 ## Setup
@@ -37,20 +51,3 @@ Feel free to contact shunyuyao.cs@gmail.com or open an issue if you have any que
 
 
 
-## Questions
-Feel free to contact shunyuyao.cs@gmail.com or open an issue if you have any questions.
-
-
-
-## Citation
-
-```bibtex
-@misc{yao2023tree,
-      title={{Tree of Thoughts}: Deliberate Problem Solving with Large Language Models}, 
-      author={Shunyu Yao and Dian Yu and Jeffrey Zhao and Izhak Shafran and Thomas L. Griffiths and Yuan Cao and Karthik Narasimhan},
-      year={2023},
-      eprint={2305.10601},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
