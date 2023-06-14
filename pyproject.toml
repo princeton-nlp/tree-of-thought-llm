@@ -3,7 +3,7 @@ requires = ["setuptools >= 61.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "tree-of-thought-llm"
+name = "tree_of_thought_llm"
 version = "0.1.0"
 description = 'Official Implementation of "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"'
 readme = "README.md"
@@ -26,6 +26,9 @@ dynamic=["dependencies"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+where = ["tree_of_thought_llm"]  # list of folders that contain the packages (["."] by default)
 
 [project.urls]
 Homepage = "https://github.com/princeton-nlp/tree-of-thought-llm"

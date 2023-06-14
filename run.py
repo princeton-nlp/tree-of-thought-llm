@@ -5,7 +5,7 @@ import argparse
 import numpy as np
 from functools import partial
 from models import gpt, gpt_usage
-from tasks import get_task
+from tree_of_thought_llm.tasks import get_task
 
 def get_value(task, x, y, n_evaluate_sample, cache_value=True):
     value_prompt = task.value_prompt_wrap(x, y)
@@ -100,9 +100,9 @@ def run(args):
     global gpt
     gpt = partial(gpt, model=args.backend, temperature=args.temperature)
     if args.naive_run:
-        file = f'logs/{args.task}/{args.backend}_{args.temperature}_naive_{args.prompt_sample}_sample_{args.n_generate_sample}_start{args.task_start_index}_end{args.task_end_index}.json'
+        file = f'tree_of_thought_llm/logs/{args.task}/{args.backend}_{args.temperature}_naive_{args.prompt_sample}_sample_{args.n_generate_sample}_start{args.task_start_index}_end{args.task_end_index}.json'
     else:
-        file = f'logs/{args.task}/{args.backend}_{args.temperature}_{args.method_generate}{args.n_generate_sample}_{args.method_evaluate}{args.n_evaluate_sample}_{args.method_select}{args.n_select_sample}_start{args.task_start_index}_end{args.task_end_index}.json'
+        file = f'tree_of_thought_llm/logs/{args.task}/{args.backend}_{args.temperature}_{args.method_generate}{args.n_generate_sample}_{args.method_evaluate}{args.n_evaluate_sample}_{args.method_select}{args.n_select_sample}_start{args.task_start_index}_end{args.task_end_index}.json'
     os.makedirs(os.path.dirname(file), exist_ok=True)
 
     for i in range(args.task_start_index, args.task_end_index):

@@ -1,7 +1,6 @@
 import re
 import json
-import os
-from tasks.base import Task, DATA_PATH
+from tasks.base import Task
 from prompts.crosswords import * 
 from models import gpt
 
