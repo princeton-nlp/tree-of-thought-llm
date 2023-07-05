@@ -1,13 +1,14 @@
 import re
-import json
 import os
-from tasks.base import Task, DATA_PATH
-from prompts.crosswords import * 
-from models import gpt
+import json
+from tot.tasks.base import Task, DATA_PATH
+from tot.prompts.crosswords import * 
+from tot.models import gpt
 
 class MiniCrosswordsEnv:
     def __init__(self, file='mini0505.json'):
-        self.file = f'data/crosswords/{file}'
+        self.file = os.path.join(DATA_PATH, 'crosswords', file)
+
         self.file = json.load(open(self.file))
         self.n = len(self.file)
         self.cache = {}
