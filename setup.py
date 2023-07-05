@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 
 setuptools.setup(
-    name='tot',
+    name='tree-of-thoughts-llm',
     author='Shunyu Yao',
     author_email='shunyuyao.cs@gmail.com',
     description='Official Implementation of "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"',

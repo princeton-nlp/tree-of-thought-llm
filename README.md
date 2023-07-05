@@ -20,9 +20,14 @@ Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/16593575474
 
 
 ## Setup
-- Set up OpenAI API key and store in environment variable ``OPENAI_API_KEY`` (see [here](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)). 
+1. Set up OpenAI API key and store in environment variable ``OPENAI_API_KEY`` (see [here](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)). 
 
-- Install dependencies and `tot` package (PyPI package coming soon): 
+2. Install `tot` package in two ways:
+- Option 1: Install from PyPI
+```bash
+pip install tree-of-thought-llm
+```
+- Option 2: Install from source
 ```bash
 git clone https://github.com/princeton-nlp/tree-of-thought-llm
 cd tree-of-thought-llm
