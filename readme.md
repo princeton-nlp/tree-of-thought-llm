@@ -24,13 +24,15 @@ Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/16593575474
 
 - Install dependencies and `tot` package: 
 ```bash
+git clone https://github.com/princeton-nlp/tree-of-thought-llm
+cd tree-of-thought-llm
 pip install -r requirements.txt
 pip install -e .  # install `tot` package
 ```
 
 
 ## Quick Start
-The following minimal script will attempt to solve the game of 24 with `4 5 6 10`:
+The following minimal script will attempt to solve the game of 24 with `4 5 6 10` (might be a bit slow as it's using GPT-4):
 ```python
 import argparse
 from tot.methods.bfs import solve
@@ -72,8 +74,6 @@ The very simple ``run.py`` implements the ToT + BFS algorithm, as well as the na
 
 ## How to Add New Tasks/Methods
 TBA.
-
-
 
 
 
