@@ -22,7 +22,7 @@ Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/16593575474
 ## Setup
 - Set up OpenAI API key and store in environment variable ``OPENAI_API_KEY`` (see [here](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)). 
 
-- Install dependencies and `tot` package: 
+- Install dependencies and `tot` package (PyPI package coming soon): 
 ```bash
 git clone https://github.com/princeton-nlp/tree-of-thought-llm
 cd tree-of-thought-llm
@@ -72,10 +72,10 @@ The very simple ``run.py`` implements the ToT + BFS algorithm, as well as the na
 ## Paper Trajectories
 ``logs/`` contains all the trajectories from the paper's experiments, except for ``logs/game24/gpt-4_0.7_propose1_value3_greedy5_start900_end1000.json`` which was reproduced after the paper (as the original experiment was done in a notebook) and achieved a 69\% score instead of the original 74\% score due to randomness in GPT decoding. We hope to aggregate multiple runs in the future to account for sampling randomness and update the paper, but this shouldn't affect the main conclusions of the paper.
 
-## How to Add New Tasks/Methods
-TBA.
-
-
+## How to Add A New Task
+Setting up a new task is easy, and mainly involves two steps.
+* Set up a new task class in ``tot/tasks/`` and task files in ``tot/data/``. See ``tot/tasks/game24.py`` for an example. Add the task to ``tot/tasks/__init__.py``.
+* Set up task-specific prompts in ``tot/prompts/``. See ``tot/prompts/game24.py`` for an example. Depending on the nature of the task, choose ``--method_generate`` (choices=[``sample``, ``propose``]) and ``--method_evaluate`` (choices=[``value``, ``vote``]) and their corresponding prompts. 
 
 ## Citations
 Please cite the paper and star this repo if you use ToT and find it interesting/useful, thanks! Feel free to contact shunyuyao.cs@gmail.com or open an issue if you have any questions.
