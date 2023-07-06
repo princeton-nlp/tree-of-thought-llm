@@ -39,7 +39,7 @@ Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/16593575474
 2. Install `tot` package in two ways:
 - Option 1: Install from PyPI
 ```bash
-pip install tree-of-thought-llm
+pip install tree-of-thoughts-llm
 ```
 - Option 2: Install from source
 ```bash
