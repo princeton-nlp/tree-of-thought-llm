@@ -20,9 +20,6 @@
 Official implementation for paper [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) with code, prompts, model outputs.
 Also check [its tweet thread](https://twitter.com/ShunyuYao12/status/1659357547474681857) in 1min.
 
-**Note**: The repo https://github.com/kyegomez/tree-of-thoughts is not the official repo and is not guaranteed to replicate our results. Use that at your own risk.
-
-
 
 
 
