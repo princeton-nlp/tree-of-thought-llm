@@ -88,5 +88,5 @@ class Game24Task(Task):
             return 0
         value_names = [_.split('\n')[-1] for _ in value_outputs]
         value_map = {'impossible': 0.001, 'likely': 1, 'sure': 20}  # TODO: ad hoc
-        value = sum(value * value_names.count(name) for name, value in value_map.items())
+        value = sum(value * target_value.count(name) for name, value in value_map.items() for target_value in value_names)
         return value
