@@ -69,7 +69,9 @@ def solve(args, task, idx, to_print=True):
 
         # selection
         if args.method_select == 'sample':
-            ps = np.array(values) / sum(values)
+            total = sum(values)
+            # fall back to uniform sampling when every candidate scored 0 (avoids NaN probabilities)
+            ps = np.array(values) / total if total > 0 else np.full(len(values), 1 / len(values))
             select_ids = np.random.choice(ids, size=args.n_select_sample, p=ps).tolist()
         elif args.method_select == 'greedy':
             select_ids = sorted(ids, key=lambda x: values[x], reverse=True)[:args.n_select_sample]
