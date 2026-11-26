@@ -15,7 +15,13 @@ if api_base != "":
     print("Warning: OPENAI_API_BASE is set to {}".format(api_base))
     openai.api_base = api_base
 
-@backoff.on_exception(backoff.expo, openai.error.OpenAIError)
+# only retry transient errors; e.g. AuthenticationError / InvalidRequestError would otherwise be retried forever
+@backoff.on_exception(
+    backoff.expo,
+    (openai.error.RateLimitError, openai.error.APIError, openai.error.Timeout,
+     openai.error.ServiceUnavailableError, openai.error.APIConnectionError),
+    max_tries=10,
+)
 def completions_with_backoff(**kwargs):
     return openai.ChatCompletion.create(**kwargs)
 
